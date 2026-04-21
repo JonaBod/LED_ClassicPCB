@@ -919,7 +919,7 @@
 			(uuid "17b575eb-6ce2-4e8d-8f30-7e863478a89e")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#PWR02")
 					(unit 1)
@@ -998,7 +998,7 @@
 			(uuid "28efded5-008c-49dc-afe6-8e8b8e4208f0")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#FLG01")
 					(unit 1)
@@ -1077,7 +1077,7 @@
 			(uuid "d2fb13fe-a878-4f9f-99a8-a78bbdf6b419")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#FLG02")
 					(unit 1)
@@ -1155,7 +1155,7 @@
 			(uuid "4188b64f-4618-4d4c-870d-d8ec216880ac")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#PWR03")
 					(unit 1)
@@ -1234,7 +1234,7 @@
 			(uuid "11affb87-3126-4933-bcdf-fdd7e676e30e")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#FLG03")
 					(unit 1)
@@ -1312,7 +1312,7 @@
 			(uuid "03906007-38bd-452e-b5b8-85f4e205ffe9")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#PWR01")
 					(unit 1)
@@ -1457,7 +1457,7 @@
 			(uuid "b2be54e4-faad-48b8-a7ea-b9e83320ff49")
 		)
 		(instances
-			(project "LED_TestPlatine_mit_R"
+			(project "LED_TestPlatine"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "Y1")
 					(unit 1)
