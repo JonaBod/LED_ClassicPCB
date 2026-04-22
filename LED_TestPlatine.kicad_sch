@@ -987,7 +987,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "e3507886-fe81-403f-ae64-3cd72aa154b2")
+		(uuid "f61db13c-7728-487a-bff7-801562efca12")
 	)
 	(symbol
 		(lib_id "power:+3V0")
@@ -1141,6 +1141,86 @@
 			(project "LED_TestPlatine_mit_R"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 173.99 91.44 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "429e236a-f21b-4567-9244-5a25b3dc74ed")
+		(property "Reference" "R1"
+			(at 173.99 85.09 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "50"
+			(at 173.99 87.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 173.99 93.218 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 173.99 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7b07902a-234c-4aa4-b914-58d6e8ac8f36")
+		)
+		(pin "2"
+			(uuid "4f9fd7e3-2947-4e11-a5f3-f5e7b881425f")
+		)
+		(instances
+			(project "LED_TestPlatine_mit_R"
+				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -1377,86 +1457,6 @@
 			(project "LED_TestPlatine_mit_R"
 				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
 					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 173.99 91.44 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c11b252d-9786-4c11-acaf-899232b44078")
-		(property "Reference" "R1"
-			(at 173.99 85.09 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "200"
-			(at 173.99 87.63 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
-			(at 173.99 93.218 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 173.99 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "78e98936-c440-4561-a643-eddd44ef732b")
-		)
-		(pin "2"
-			(uuid "b1d8dc68-e35c-4e9c-93bf-b2f44aa557b4")
-		)
-		(instances
-			(project "LED_TestPlatine_mit_R"
-				(path "/9579e0b5-2a8a-4151-af14-715dc76a141a"
-					(reference "R1")
 					(unit 1)
 				)
 			)
