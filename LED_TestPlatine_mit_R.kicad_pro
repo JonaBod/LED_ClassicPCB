@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LED_TestPlatine.kicad_pro",
+    "filename": "LED_TestPlatine_mit_R.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -632,7 +632,7 @@
         "uuid": "9579e0b5-2a8a-4151-af14-715dc76a141a"
       }
     ],
-    "used_designators": "#PWR3,#FLG1-3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
